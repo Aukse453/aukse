@@ -8,3 +8,23 @@ ntuser.ini
 
 
 
+# Sisteminiai ir vartotojo failai
+ntuser.dat*
+*.LOG1
+*.LOG2
+ntuser.ini
+*.exe
+*.tar.gz
+*.xd
+*.lck
+
+# VS Code
+.vscode/
+.vscode/extensions/
+
+# SonarLint
+.sonarlint/
+.sonarlinttmp_*/
+
+# Crossnote
+.crossnote/
