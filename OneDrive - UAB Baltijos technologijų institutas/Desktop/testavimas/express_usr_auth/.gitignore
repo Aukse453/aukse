@@ -1,0 +1,8 @@
+# Sisteminiai Windows failai
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Vykdomieji failai
+*.exe
+
